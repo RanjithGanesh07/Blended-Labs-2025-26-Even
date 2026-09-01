@@ -1,7 +1,5 @@
 # Lab 6 – Scale and Load Balance Your Architecture
 
-## Title - Scale and Load Balance Your Architecture
-
 ## Author
 
 * **Name**: Ranjith Ganesh B
